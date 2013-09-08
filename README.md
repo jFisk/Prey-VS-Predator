@@ -1,1 +1,0 @@
-This project simulates a simple ecosystem with only two types of organisms: prey and predators. The number of predators changes the color of the square, while the number of prey changes the shading of the square.
